@@ -15,14 +15,15 @@ Fake news is a major issue in today's digital world. This project leverages mach
   - `text` – The body/content of the news article
   - `label` – `FAKE` or `REAL`
 
-## 📊 Evaluation
+## 📊 Models and Evaluation
 - **Train/Test Split**: 80/20
-- **Accuracy Achieved**: 84%
-
+- **Logistic Regression**: Accuracy: 83.3%
+- **Naive Bais**: Accuracy: 81.5%
+- **SVC**: Accuracy: 84.1%
 ## 🛠️ Technologies Used
 - Python
 - Pandas
-- Scikit-learn
+- Scikit-Learn
 - TfidfVectorizer (for text feature extraction)
 
 ## 🧪 How to Run
