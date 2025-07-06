@@ -1,0 +1,15 @@
+# Imports:
+pandas
+numpy
+sklearn
+matplotlib
+nltk
+re
+
+# Models used:
+LogisticRegression
+MultinomialNB
+SVC
+accuracy_score
+train_test_split
+TfidfVectorizer
