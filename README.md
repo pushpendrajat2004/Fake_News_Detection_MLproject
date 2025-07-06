@@ -17,7 +17,7 @@ Fake news is a major issue in today's digital world. This project leverages mach
 
 ## 📊 Evaluation
 - **Train/Test Split**: 80/20
-- **Accuracy Achieved**: _Add your result here (e.g., 92%)_
+- **Accuracy Achieved**: 84%
 
 ## 🛠️ Technologies Used
 - Python
